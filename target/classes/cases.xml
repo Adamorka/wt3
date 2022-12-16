@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cases>
+    <case>
+        <id>1</id>
+        <firstName>Darya</firstName>
+        <lastName>Shparko</lastName>
+    </case>
+    <case>
+        <id>2</id>
+        <firstName>Makarushko</firstName>
+        <lastName>Anna</lastName>
+    </case>
+    <case>
+        <id>3</id>
+        <firstName>Aleksandra</firstName>
+        <lastName>Adamovich</lastName>
+    </case>
+    <case>
+        <id>4</id>
+        <firstName>Darya</firstName>
+        <lastName>Schernikova</lastName>
+    </case>
+    <case>
+        <id>5</id>
+        <firstName>Anastasia</firstName>
+        <lastName>Nakonechnik</lastName>
+    </case>
+    <case>
+        <id>6</id>
+        <firstName>Viktoria</firstName>
+        <lastName>Pavlovich</lastName>
+    </case>
+</cases>
